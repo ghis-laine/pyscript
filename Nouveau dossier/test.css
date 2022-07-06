@@ -1,0 +1,27 @@
+body
+ {
+background-color: rgb(245,245,220);
+border:10px blue ridge;
+margin: 50px;
+font-size: 26px;
+}
+img
+{
+	margin-left: 10px;
+	border: 2px black groove;
+	margin-bottom: 1px;
+	background-color: yellowgreen;
+}
+.me
+{
+background-color: blue cyan;
+	height: 350px;
+
+}
+h1
+{
+	margin-left: 250px;
+	margin-right: 40px;
+	color: darkviolet;
+	background-color: yellowgreen;
+}
